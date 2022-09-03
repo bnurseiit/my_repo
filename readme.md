@@ -5,3 +5,6 @@ Sample text
 ## Lets add text from browser
 
 Adding text in the new branch **TEST**
+
+
+Conflict creation
