@@ -12,6 +12,7 @@ Conflict from local.
 Conflict creation.(from browser)
 
 -------------------------
+-------------------------
 
 # Dattebayo
 * The Best ninja
@@ -20,3 +21,13 @@ Conflict creation.(from browser)
 **is**
 ## Uzumaki Naruto - son of fourth hokage Namikaze Minato and Uzumaki Kushina
 ![Hokage](naruto.jpg)
+
+-------------------------
+
+# Uchiha
+* The Best friend of Naruto
+* The owner of sharingan
+* And the owner of rinnegan
+**is**
+## Uchiha Sasuke - Brother of Uchiha Itachi
+![Sasuke](sasuke.jpg)
