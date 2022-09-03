@@ -19,5 +19,5 @@ Conflict creation.(from browser)
 * The owner of sharingan
 * And the owner of rinnegan
 **is**
-## Uchiha Sasuke
+## Uchiha Sasuke - Brother of Uchiha Itachi
 ![Sasuke](sasuke.jpg)
