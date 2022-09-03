@@ -2,7 +2,7 @@
 
 Sample text
 
-## NANIIIIIIIIIIIII
+## NANIIIIIIIIIIIII from browser
 
 Adding text in the new branch **TEST**
 
