@@ -10,3 +10,14 @@ Conflict from local.
 
 
 Conflict creation.(from browser)
+
+
+-------------------------
+
+# Uchiha
+* The Best friend of Naruto
+* The owner of sharingan
+* And the owner of rinnegan
+**is**
+## Uchiha Sasuke
+![Sasuke](sasuke.jpg)
