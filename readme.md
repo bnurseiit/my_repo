@@ -18,5 +18,5 @@ Conflict creation.(from browser)
 * The Best hardworker
 * The Best hokage
 **is**
-## Uzumaki Naruto
+## Uzumaki Naruto - son of fourth hokage Namikaze Minato and Uzumaki Kushina
 ![Hokage](naruto.jpg)
