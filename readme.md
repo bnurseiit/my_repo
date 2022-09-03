@@ -1,6 +1,6 @@
 # This is my first repo
 
-Sample text
+Sample text - Omaewa mou shindeiru.
 
 ## NANIIIIIIIIIIIII from browser
 
